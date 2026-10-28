@@ -1,9 +1,16 @@
 # ENGR-315-Data-Project-
 This Repository is for Ezhar, Devon, and Ethan to work on their chosen data set (meteors) and come up with questions and infromation.
 
-Project Title (sub-task-1)
+Project Title:
+- Analyzing Meteorite Mass, Discovery Methods, and Temporal Patterns in NASA’s Meteorite Landing Dataset
 
-Team Name and Names of the Contributors (sub-task-1)
+Team Name:
+ - The Meteorites
+
+Names of Contributors:
+- Ezhar Zahid
+- Ethan Mallon
+- Devon Tremeau
 
 Objective and Motivation: (sub-task-2)
 Specify Dataset and provide details
