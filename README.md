@@ -24,11 +24,11 @@ In this section, you will go over the methods (with metrics, tools, and plots) t
 The following also be added in the coming phases
 Add any screenshot that you feel is necessary to show the project's complexity, such as block diagrams, snippets of the code that carries explicitly a method, the top-level code, etc.
 
-Results (Answers to the Questions): (sub-task-6)
-Just have the title as a placeholder to be populated later
+Results/Answers:
+- Placeholder
 
-Conclusions: (sub-task-7)
-Just have the title as a placeholder to be populated later
+Conclusions:
+- Placeholder
 
 Actions that need to be completed:
 Just have the title as a placeholder to be populated later
@@ -36,6 +36,6 @@ List all the actions that need to be completed (a checklist). Think about this a
 Mention the issues that the group is facing for each action, if any.
 
 References/Source files:
-CSV File [Meteorite Excel File](Meteorite_Landings.csv)
+- CSV File: [Meteorite CSV File](Meteorite_Landings.csv)
 List all the references the group used for the project, including journal & conference papers, GitHub repositories, open-source files, etc.
 
