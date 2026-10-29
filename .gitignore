@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data and generated analysis outputs (keep folder placeholders)
+data/*.csv
+data/*.xlsx
+outputs/figures/*.png
+outputs/tables/*.csv
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
