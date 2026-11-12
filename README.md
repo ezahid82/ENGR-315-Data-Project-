@@ -192,6 +192,8 @@ The mean mass difference (`Fell - Found`) was **34,603.47 grams**. However, the 
 | Significance level (α) | 0.05 |
 | Statistically significant? | No |
 
+![Figure 1 - Relationship of Mass and Fall Status](Figure1.png)
+
 #### Interpretation
 
 Although the average recorded mass of meteorites classified as `Fell` was greater than that of meteorites classified as `Found`, the difference was not statistically significant (p = 0.11665). Because the p-value exceeds the 0.05 significance threshold and the confidence interval includes zero, we fail to reject the null hypothesis.
@@ -215,6 +217,8 @@ We examined the relationship between the recorded year of a meteorite's fall or 
 | Spearman correlation (ρ) | -0.00097 |
 | Spearman p-value | 0.83728 |
 | Significance level (α) | 0.05 |
+
+![Figure 2 - Mass Distribution and Fall Status](Figure2.png)
 
 #### Interpretation
 
@@ -246,6 +250,8 @@ To investigate temporal patterns in recorded meteorite falls, we analyzed annual
 | 95% CI for IRR | [1.01097, 1.01315] |
 | p-value for year trend | 2.43 × 10⁻¹⁰⁵ |
 | Significance level (α) | 0.05 |
+
+![Figure 3 - Year vs Mass](Figure3.png)
 
 #### Interpretation
 
